@@ -1,0 +1,1 @@
+document.write("Olá, estou utilizando o JS para enviar esta mensagem.")
